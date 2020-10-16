@@ -5,7 +5,7 @@
 # Happy
 
 # :computer: Technologies
-This project was made using the follow technologies:
+Este projeto foi feito utilizando as seguintes tecnologias:
 <ul>
   <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
   <li><a href="https://pt-br.reactjs.org/>React js</a></lis>
