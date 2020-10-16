@@ -1,5 +1,5 @@
 <p align="center">
-   <https://github.com/natcecilio/Happy/blob/master/src/images/map-marker.svg" alt="Happy" width="280"/>
+   <https://github.com/natcecilio/Happy/blob/master/src/images/map-marker.svg" alt="Happy"/>
 </p>
 
 # Happy
